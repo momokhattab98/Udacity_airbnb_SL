@@ -1,5 +1,10 @@
 airbnb
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAirbnb_Logo_B%25C3%25A9lo.svg&psig=AOvVaw0UFvKp-cNWS8TvvId3D4NN&ust=1673703671941000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiV3ZnWxPwCFQAAAAAdAAAAABAD
+
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/768px-Airbnb_Logo_B%C3%A9lo.svg.png?20140813142239"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 ==============================
 
 Business understanding 
