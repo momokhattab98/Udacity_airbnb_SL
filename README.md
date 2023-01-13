@@ -15,5 +15,24 @@ In this recruiting competition, Airbnb challenges you to predict in which countr
 
 Project Goal --> Analyzing data of travellers
 --------
+<img
+  src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/2dmDLmWvCncVHcQ6lz9u5v/9ebc8c914fcf0e8b546bce78133b2a4a/OpenGraph_Udacity_Logo_Update__1_.png"
+  alt="Udacity logo"
+  title="Udacity logo"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img
+  src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/c88a4c04-9240-4065-8c2e-bbc9160b95ba.svg"
+  alt="Udacity AI with python nano degree certification"
+  title="Udacity AI with python nano degree certification"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"> 
+
+This project is created by Udacity AI mentor and Sessions Lead / Mahmoud Khattab.
+
+
+
+
+
+
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
