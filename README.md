@@ -51,5 +51,5 @@ In this recruiting competition, Airbnb challenges you to predict in which countr
 This project is created by Udacity AI mentor and Sessions Lead / Mahmoud Khattab.
 
 # 1st session of the project on zoom
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/kV1aUANxt2E "End to end data science project")
+[![End to end data science project](/reports/figures/--Bar--%20Sign%20Up%20methods.png)](https://www.youtube.com/embed/kV1aUANxt2E "End to end data science project")
 
